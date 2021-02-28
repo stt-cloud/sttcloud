@@ -1,5 +1,6 @@
 # STTcloud
 
 ### 最新地址（国内可访问）：https://sttcloud.net
-### 备用地址1：https://sttcloud.top
-### 备用地址2：https://sttvpn.com
+### 中文地址：https://非常好用.com
+### 备用地址：https://sttcloud.top
+
